@@ -1,0 +1,43 @@
+
+{
+  "app": {
+    "title": "AI Coloring Book Creator",
+    "subtitle": "Bring your child's imagination to life! Just pick a theme, add a name, and we'll magically create a printable coloring book."
+  },
+  "form": {
+    "themeLabel": "Coloring Book Theme",
+    "themePlaceholder": "e.g., Magical Unicorns, Robot Zoo",
+    "nameLabel": "Child's Name",
+    "namePlaceholder": "e.g., Lily, Tom",
+    "button": "Create My Book!",
+    "buttonDisabled": "Creating..."
+  },
+  "loading": {
+    "cover": "Creating a magical cover...",
+    "pages": "Drawing the coloring pages...",
+    "pdf": "Putting it all together into a PDF...",
+    "default": "Our art robots are drawing your pages..."
+  },
+  "display": {
+    "title": "Your Coloring Book is Ready!",
+    "subtitle": "Here's a preview of your personalized creation.",
+    "cover": "Cover Page",
+    "coverAlt": "Coloring book cover",
+    "page": "Page {{number}}",
+    "pageAlt": "Coloring page {{number}}",
+    "downloadButton": "Download PDF"
+  },
+  "chat": {
+    "title": "Art Assistant",
+    "toggle": "Toggle Chat",
+    "welcome": "Hello! I'm your friendly art assistant. How can I help you?",
+    "placeholder": "Ask a question...",
+    "error": "I'm having a little trouble thinking right now. Please try again!",
+    "systemInstruction": "You are a friendly and helpful chatbot for a children's coloring book app. Keep your answers concise and cheerful."
+  },
+  "error": {
+    "title": "Error",
+    "generation": "Oops! Something went wrong while creating the coloring book. Please try again.",
+    "pdf": "Failed to create the PDF. Please try downloading again."
+  }
+}

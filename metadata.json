@@ -1,0 +1,5 @@
+{
+  "name": "AI Coloring Book Creator",
+  "description": "Generate personalized, printable coloring books for children. Provide a theme and a name to create a unique coloring book with a custom cover and five themed pages, then add a chat bot to answer questions.",
+  "requestFramePermissions": []
+}

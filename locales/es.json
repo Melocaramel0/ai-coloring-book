@@ -1,0 +1,43 @@
+
+{
+  "app": {
+    "title": "Creador de Libros de Colorear con IA",
+    "subtitle": "¡Dale vida a la imaginación de tu hijo/a! Solo elige un tema, añade un nombre y crearemos mágicamente un libro de colorear para imprimir."
+  },
+  "form": {
+    "themeLabel": "Tema del Libro de Colorear",
+    "themePlaceholder": "Ej: Unicornios Mágicos, Zoo de Robots",
+    "nameLabel": "Nombre del Niño/a",
+    "namePlaceholder": "Ej: Ana, Tomás",
+    "button": "¡Crear Mi Libro!",
+    "buttonDisabled": "Creando..."
+  },
+  "loading": {
+    "cover": "Creando una portada mágica...",
+    "pages": "Dibujando las páginas para colorear...",
+    "pdf": "Uniéndolo todo en un PDF...",
+    "default": "Nuestros robots artistas están dibujando tus páginas..."
+  },
+  "display": {
+    "title": "¡Tu Libro de Colorear está Listo!",
+    "subtitle": "Aquí tienes una vista previa de tu creación personalizada.",
+    "cover": "Portada",
+    "coverAlt": "Portada del libro de colorear",
+    "page": "Página {{number}}",
+    "pageAlt": "Página de colorear {{number}}",
+    "downloadButton": "Descargar PDF"
+  },
+  "chat": {
+    "title": "Asistente de Arte",
+    "toggle": "Abrir/Cerrar Chat",
+    "welcome": "¡Hola! Soy tu amigable asistente de arte. ¿Cómo puedo ayudarte?",
+    "placeholder": "Haz una pregunta...",
+    "error": "Estoy teniendo un pequeño problema para pensar ahora mismo. ¡Por favor, inténtalo de nuevo!",
+    "systemInstruction": "Eres un chatbot amigable y servicial para una aplicación de libros de colorear para niños. Mantén tus respuestas concisas y alegres."
+  },
+  "error": {
+    "title": "Error",
+    "generation": "¡Uy! Algo salió mal mientras se creaba el libro de colorear. Por favor, inténtalo de nuevo.",
+    "pdf": "No se pudo crear el PDF. Por favor, intenta descargarlo de nuevo."
+  }
+}
