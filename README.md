@@ -27,7 +27,7 @@ Usar el creador es muy fácil. Sigue estos sencillos pasos:
 3.  **Ingresa un Nombre:** Haz lo mismo en el campo "Nombre del Niño/a". El nombre que escribas aparecerá en la portada y en la página de dedicatoria.
 4.  **Haz Clic en "Crear Mi Libro!":** Presiona el botón para comenzar el proceso. La IA se tomará un momento para diseñar y dibujar cada página. Verás mensajes de estado que te informarán del progreso.
 5.  **Previsualiza tu Creación:** Una vez terminado, aparecerá una vista previa de la portada y las cinco páginas de colorear en la pantalla.
-6.  **Descarga el PDF:** Si te gusta el resultado, haz clic en el botón "Descargar PDF". Esto generará un archivo PDF que se guardará en tu dispositivo, ¡listo para imprimir y disfrutar!
+6.  **Descarga el PDF:** Si te gusta el resultado, haz clic en el botón "Descargar PDF". Esto generará un archivo PDF que se guardará en tu dispositivo, listo para imprimir y disfrutar!
 
 ## Tecnologías Utilizadas
 
