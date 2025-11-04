@@ -1,6 +1,6 @@
 # Creador de Libros de Colorear con IA
 
-¡Bienvenido al Creador de Libros de Colorear con IA! Esta aplicación web te permite generar libros de colorear personalizados y listos para imprimir para niños, utilizando el poder de la inteligencia artificial de Google.
+Bienvenido al Creador de Libros de Colorear con IA! Esta aplicación web te permite generar libros de colorear personalizados y listos para imprimir para niños, utilizando el poder de la inteligencia artificial de Google.
 
 ## Descripción
 
